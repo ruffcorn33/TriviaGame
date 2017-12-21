@@ -1,0 +1,10 @@
+body {
+  background-image: url("../images/starry-bkg.jpg");
+}
+
+#startCard,
+#triviaCard,
+#scoreCard {
+  background-color: white;
+  margin-top: 20px;
+}
